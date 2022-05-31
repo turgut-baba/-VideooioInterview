@@ -1,0 +1,2 @@
+/usr/bin/ar qc libswresample_static.a  CMakeFiles/swresample.dir/swresample.c.o CMakeFiles/swresample.dir/options.c.o CMakeFiles/swresample.dir/audioconvert.c.o CMakeFiles/swresample.dir/rematrix.c.o CMakeFiles/swresample.dir/resample.c.o CMakeFiles/swresample.dir/dither.c.o CMakeFiles/swresample.dir/resample_dsp.c.o
+/usr/bin/ranlib libswresample_static.a

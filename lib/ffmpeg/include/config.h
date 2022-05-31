@@ -1,0 +1,1 @@
+//cmake config will define all that

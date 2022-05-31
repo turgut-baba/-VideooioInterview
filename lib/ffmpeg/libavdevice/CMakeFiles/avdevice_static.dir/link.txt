@@ -1,0 +1,2 @@
+/usr/bin/ar qc libavdevice_static.a  CMakeFiles/avdevice.dir/avdevice.c.o CMakeFiles/avdevice.dir/utils.c.o CMakeFiles/avdevice.dir/alldevices.c.o
+/usr/bin/ranlib libavdevice_static.a
